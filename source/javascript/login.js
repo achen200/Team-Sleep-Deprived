@@ -40,7 +40,7 @@ loginAutomatically();
 /**
  * Check if we are in the signup page, if so, add the event listener for the signup button, otherwise assume that we are in the login page and add an event listener for the login button
  */
-if (signup.test(window.location.href)) {
+if (document.getElementById('submit').value == 'Signup') {
 	let form = document.getElementsByClassName('user-details-form')[0];
 	form.addEventListener('submit', signUpSubmission);
 } else {
