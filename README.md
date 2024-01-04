@@ -10,4 +10,4 @@ Team [Group Page](./admin/team.md)
 
 [Private Video](https://youtu.be/70Ahpgwx6b4)
 
-[Deployed Website](https://cse110-expensetracker.netlify.app/)
+[Deployed Website](https://expense-wallet-demo.netlify.app)
